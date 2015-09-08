@@ -1,0 +1,5 @@
+# Totm_SagePayRecurringRewrite
+code                                app/code/local/Totm/SagePayRecurringRewrite/
+adminhtml/layout/*                  app/design/adminhtml/default/default/layout/totm/
+js/*                                js/totm/sagepayrecurringrewrite/
+Totm_SagePayRecurringRewrite.xml    app/etc/modules/Totm_SagePayRecurringRewrite.xml
